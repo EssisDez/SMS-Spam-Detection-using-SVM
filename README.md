@@ -250,7 +250,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Desi ESSIS**
-- GitHub: [@mtechbro94](https://github.com/mtechbro94)
+- GitHub: [@mtechbro94](https://github.com/EssisDez))
 - Repository: [SMS-Spam-Detection-using-SVM](https://github.com/mtechbro94/SMS-Spam-Detection-using-SVM)
 
 ## 🙏 Acknowledgments
